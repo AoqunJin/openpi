@@ -1,0 +1,10 @@
+imageio[ffmpeg]
+numpy==1.24.3
+tqdm
+tyro
+PyYaml
+opencv-python==4.6.0.66
+matplotlib==3.5.3
+gymnasium==1.0.0a1
+# gymnasium==1.1.0
+# git+https://github.com/huggingface/lerobot@6674e368249472c91382eb54bb8501c94c7f0c56

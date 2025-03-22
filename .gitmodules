@@ -4,3 +4,6 @@
 [submodule "third_party/libero"]
 	path = third_party/libero
 	url = https://github.com/Lifelong-Robot-Learning/LIBERO.git
+[submodule "third_party/metaworld"]
+	path = third_party/metaworld
+	url = https://github.com/Farama-Foundation/Metaworld.git
